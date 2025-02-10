@@ -1,0 +1,9 @@
+Explain difference between null and undefined in JavaScript?
+Null and undefined both represents the absence of a value, but they have different meanings and behaviors.
+1.undefined:
+A variable is undefined when it has been declared but not assigned a value.
+Functions return undefined if they don't explicitly return a value.Accessing an object 
+property that doesn't exist returns undefined.
+2.null:
+null is an explicit assignment to indicate that a variable has "no value".
+It is commonly used when you want to clear a value or signal the intentional absence of an object.

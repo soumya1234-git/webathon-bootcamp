@@ -1,0 +1,20 @@
+How many loops are there in JavaScript,how do they work?
+JavaScript provides several types of loops for iterating over data and executing repeated tasks.
+1.for Loop:
+Used when you know how many times to run the loop.
+syntax:
+for(initialization;condition checking;increment){
+    code to execute
+}
+2.while Loop:
+Used when you don't know in advance how many times to loop.
+syntax:
+while(condition){
+    code to execute
+}
+3.do..while Loop:
+Similar to while,but ensures the loop  runs at least once,even if the condition is false.
+syntax:
+do{
+    code to execute
+}while(condition);
